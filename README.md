@@ -1,2 +1,3 @@
 # GrubersCV
-First page for on going adapting CV
+First page for ongoing adapting CV
+//This is day two of my learning so please do not expect much yet. However, as time goes I will blow your mind.
