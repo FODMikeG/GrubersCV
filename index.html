@@ -45,7 +45,10 @@
         </tbody>
 
       </table>
-      
+      <!-- Uclear as to why this is showing up and a single line of text and not a table. I double checked my coding and refreshed. Still not showing up correctly. Whats wrong?-->
+
+
+
     <section><p><ul>Skills I learned on my own over the years.</ul></p>
                     <ol>
                       <li>Hardware-engineering</li>
@@ -67,9 +70,14 @@
 
 
 </p></section>
+<form action="Userforms" method="post">
+  <label for="contactinfo">Please enter you name and email or phone number to reach back out to you. If you liked what you see or have observations about what I can do better.</label><br>
+  <input type="text" name="Name" id="contactinfo" placeholder="Yourname">
+  <input type="email" name="email" id="contactino" placeholder="youemail@domain.???">
+  <input type="number" name="Phone Number" id="contactinfo" placeholder="111-111-1111"><br>
 
-<label for="email">Email:</label><form action="text" aria-placeholder="Enter your email here.">
-
+  <input type="radio" name="Like it" id="contactinfo"><label for="contactinfo">Liked it.</label><br>
+<button type="submit">Save info</button>
 </form>
   </body>
 </html>
