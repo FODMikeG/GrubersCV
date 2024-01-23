@@ -1,3 +1,5 @@
 body{
-    background-color: #512f9f; }
-    body{color: #0000ff; }
+    background-color: hsl(258, 54%, 40%); }
+    body{
+        color: hsl(78, 54%, 40%);
+    }
