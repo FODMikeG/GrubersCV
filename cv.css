@@ -20,3 +20,5 @@ p{ text-indent: 50px;}
 }
 body { 
     background-color: hsl(240, 13%, 3%)}
+
+    section {border: 1em hsla(199, 69%, 23%, 0.6);}
