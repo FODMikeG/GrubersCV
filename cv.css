@@ -24,9 +24,8 @@ body {
 
     section {
         border: solid 10px hsla(199, 69%, 23%, 0.6);
-        padding: 5rem;
+        padding: 2rem;
+        margin: 3rem;
     }
 
-    h3 {
-        text-size-adjust: 4rem;
-    }
+   
