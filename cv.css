@@ -31,5 +31,6 @@ body {
     }
 
    .work {
+    border-style: ridge;
     border-color: hsla(33, 95%, 36%, 0.715);
    }
