@@ -16,7 +16,7 @@ p{ text-indent: 50px;}
     border-radius: 30%;
     border: 5px;
     border-color: hsl(160, 67%, 13%);
-    width: auto;
+    image-orientation: 0 auto;
 }
 body { 
     background-color: hsl(240, 13%, 3%)}
