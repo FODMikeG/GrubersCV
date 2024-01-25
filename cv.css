@@ -15,7 +15,7 @@ p{ text-indent: 50px;}
 #self {
     border-radius: 30%;
     border-style: inset;
-    border-width: 20px;
+    border-width: 5px;
     border-color: hsl(160, 67%, 13%);
   
 }
