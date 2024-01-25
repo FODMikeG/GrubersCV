@@ -14,6 +14,7 @@ p{ text-indent: 50px;}
 
 
 #self {
+    display: block;
     border-radius: 30%;
     border-style: inset;
     border-width: 5px;
