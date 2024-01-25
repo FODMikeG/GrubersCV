@@ -24,4 +24,5 @@ body {
 
     section {
         border: solid 10px hsla(199, 69%, 23%, 0.6);
+        padding: 5rem;
     }
