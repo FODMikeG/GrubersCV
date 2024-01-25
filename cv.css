@@ -23,7 +23,7 @@ body {
     background-color: hsl(240, 13%, 3%)}
 
     section {
-        border: solid 10px hsla(199, 69%, 23%, 0.6);
+        border: solid 5px hsla(199, 69%, 23%, 0.6);
         padding: 2rem;
         margin: 3rem;
     }
