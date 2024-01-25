@@ -30,4 +30,6 @@ body {
         margin: 3rem;
     }
 
-   
+   .work {
+    border-color: hsla(33, 95%, 36%, 0.715);
+   }
