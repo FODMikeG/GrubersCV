@@ -14,7 +14,8 @@ p{ text-indent: 50px;}
 
 #self {
     border-radius: 30%;
-    border: 1px;
+    border: 5px;
+    border-color: hsl(160, 67%, 13%);
     width: auto;
 }
 body { 
