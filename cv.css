@@ -3,7 +3,8 @@ body{
 }
 
 h1{ 
-    color: hsl(120, 80%, 12%); }
+    color: hsl(120, 80%, 12%);
+background-color: hsl(199, 66%, 23%, 0.6); }
 html {
     font-family: Roboto, fantasy ;
 } 
@@ -17,6 +18,7 @@ p{ text-indent: 50px;}
     border-style: inset;
     border-width: 5px;
     border-color: hsl(160, 67%, 13%);
+    align-items: center;
   
 }
 body { 
