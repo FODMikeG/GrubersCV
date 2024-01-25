@@ -14,7 +14,8 @@ p{ text-indent: 50px;}
 
 #self {
     border-radius: 30%;
-    border: 20px;
+    boarder-style: solid
+    border-width: 20px;
     border-color: hsl(160, 67%, 13%);
     image-orientation: 0 auto;
 }
@@ -22,4 +23,4 @@ body {
     background-color: hsl(240, 13%, 3%)}
 
     section {
-        border: 10px hsla(199, 69%, 23%, 0.6);}
+        border: solid 10px hsla(199, 69%, 23%, 0.6);}
