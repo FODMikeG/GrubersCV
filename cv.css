@@ -40,5 +40,5 @@ body {
     border-radius: 40%;
    }
    button:hover {
-    border-color: hsl(0, 75%, 14%);
+    color: hsl(0, 75%, 14%);
    }
