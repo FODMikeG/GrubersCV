@@ -38,8 +38,8 @@ body {
 
    button {
     border-radius: 40%;
-    transform: perspective(20%);
-    transition: radius 1s, color 1s;
+   transition: all .3s;
+
    }
    button:hover {
     color: hsl(0, 2%, 24%);
