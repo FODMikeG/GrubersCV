@@ -38,5 +38,7 @@ body {
 
    button {
     border-radius: 40%;
-    hover: border-color: red; 
+   }
+   button:hover{
+    border-color: hsl(0, 75%, 14%);
    }
