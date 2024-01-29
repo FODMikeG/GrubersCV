@@ -35,3 +35,8 @@ body {
     border-style: ridge;
     border-color: hsla(33, 95%, 36%, 0.715);
    }
+
+   button {
+    border-radius: 40%;
+    hover: border-color: red; 
+   }
