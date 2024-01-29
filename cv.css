@@ -24,9 +24,6 @@ p{ text-indent: 50px;}
   
 }
 
-#self:hover {
-    border-radius: -30%;
-}
 body { 
     background-color: hsl(240, 13%, 3%)}
 
